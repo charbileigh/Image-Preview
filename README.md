@@ -4,6 +4,7 @@ This is a random api quote generation app built with semantic HTML, modern CSS, 
 
 ## Image of The Project
 
+![Snip 2025-10-07 10 40 06](https://github.com/user-attachments/assets/cd3e7c4a-b904-44f3-a33a-6b133a4cdf7b)
 
 
 ## Authors
